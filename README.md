@@ -45,7 +45,7 @@
 ### 📫 How to Reach Me
 
 - ✉️ Email: [mahayesh7@gmail.com](mailto:mahayesh7@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mahmoud-ayesh](https://www.linkedin.com/in/mahmoud-husam-ayesh)  
+- 🔗 LinkedIn: [linkedin.com/in/mahmoud-husam-ayesh](https://www.linkedin.com/in/mahmoud-husam-ayesh)  
 - 💼 GitHub: [github.com/mahmoudhusam](https://github.com/mahmoudhusam)  
 
 ---
